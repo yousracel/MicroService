@@ -14,3 +14,21 @@
 ## Architecture du projet
 
  ![Architecture](https://github.com/yousracel/MicroService/blob/master/Capture%20d%E2%80%99%C3%A9cran%20(174).png)
+
+## Test des requêtes avec SoapUI
+
+### Convert Request
+![Convert](https://github.com/yousracel/MicroService/blob/master/images/Capture%20d%E2%80%99%C3%A9cran%20(113).png)
+
+### GetCompte Request
+![GetCompte](https://github.com/yousracel/MicroService/blob/master/images/Capture%20d%E2%80%99%C3%A9cran%20(114).png)
+
+### ListComptes Request
+![ListComptes](https://github.com/yousracel/MicroService/blob/master/images/Capture%20d%E2%80%99%C3%A9cran%20(115).png)
+
+## Test Swagger UI
+![Swagger](https://github.com/yousracel/MicroService/blob/master/images/Capture%20d%E2%80%99%C3%A9cran%20(162).png)
+
+## DTOs
+![dto](https://github.com/yousracel/MicroService/blob/master/images/image.png)
+![dto](https://github.com/yousracel/MicroService/blob/master/images/Capture.PNG)

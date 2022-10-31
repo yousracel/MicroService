@@ -13,3 +13,4 @@
 
 ## Architecture du projet
 
+ ![Architecture](https://github.com/yousracel/MicroService/blob/master/Capture%20d%E2%80%99%C3%A9cran%20(174).png)
